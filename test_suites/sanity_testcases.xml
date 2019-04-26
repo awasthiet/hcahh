@@ -1,0 +1,16 @@
+
+  <suite name="SanitySuite">
+
+  <test name="Test Suite" >
+    <classes>
+           
+           <class name="sanitySuite.TestCase_login" />
+            <class name="sanitySuite.Test_Patient_Registration" />
+          
+        
+         
+          
+    </classes>
+    
+ </test> <!-- Test -->
+</suite> <!-- Suite -->
